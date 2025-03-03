@@ -1,2 +1,3 @@
 # uk_brackenhurst_hedgehog_density
-input data and code for the SCR density modelling for the Brackenhurst hedgehog density project 
+Documentation of coding for Brackenhurst hedgehog density project, for paper "Spatiotemporal density of hedgehogs in a changing agroecosystem".
+
