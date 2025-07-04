@@ -1,5 +1,5 @@
 ﻿"Title: Habitat and predator heterogeneity influence density of a declining mammal. Habitat composition (2015–2022) used in hedgehog density modelling at Brackenhurst Campus, Southwell, England. X and Y indicate the longitude/1000 and latitude/1000 (EPSG:27700) of the centroid of the 50 x 50 m grid cell, respectively. d2build and d2badger indicate euclidean distance (m) from the centroid of the 50 x 50 m grid cell to the nearest building and to the nearest badger sett, respectively. edge_length refers to edge density, the total length (m) of all types of edges within each grid cell. BUILDING, BADGER, and EDGE indicate the standardised z-score of d2build,  d2badger, and edge_length, respectively. SOIL: Soil types (categorical: type 0, low permeability, and type 1, high permeability). LANDUSE: Land use (categorical: 0, arable; 1, amenity; 2, pasture).",,,,,,,,,
-X,Y,d2build,d2bgr_km,edge_length,BUILDING,BADGER,EDGE,SOIL,LANDUSE
+X,Y,d2build,d2badger,edge_length,BUILDING,BADGER,EDGE,SOIL,LANDUSE
 469.1009048,353.1390519,549.787428,455.988034,33.776473,0.966958071,-0.470019257,0.572790742,0,Arable
 469.1509048,353.1390519,501.288438,406.713299,0,0.767970256,-0.652271966,-0.833274126,0,Arable
 469.2009048,353.1390519,453.115858,357.639943,8.208699,0.570321674,-0.833779833,-0.491558105,0,Arable
