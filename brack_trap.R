@@ -1,6 +1,6 @@
 
 # documentation of coding for Brackenhurst hedgehog density project
-# for paper "Habitat and predator heterogeneity influence spatial population structure in a declining mammal"
+# for paper "Habitat and predator heterogeneity influence density of a declining mammal"
 # Hongli Yu, Nottingham Trent University, hongli.yu2020@my.ntu.ac.uk, hongli.yu2021@gmail.com
 
 # = -----------------------------------------------------------------------
